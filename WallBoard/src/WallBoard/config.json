@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "WallBoard"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-WallBoard-4a96f17a-79e6-41cf-be2b-dc725d36304f;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
