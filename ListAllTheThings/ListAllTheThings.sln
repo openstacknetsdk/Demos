@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.22823.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListAllTheThings", "ListAllTheThings\ListAllTheThings.csproj", "{895BEA7B-27CB-40C8-A3C8-752EBA802F8C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListAllTheThings", "ListAllTheThings.csproj", "{895BEA7B-27CB-40C8-A3C8-752EBA802F8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
