@@ -11,3 +11,5 @@ To run the application:
 2. Run the solution (F5).
 3. When prompted enter your Rackspace Cloud username and apikey.
 4. Select an example to execute.
+
+![Screen Shot](screenshot.png)
